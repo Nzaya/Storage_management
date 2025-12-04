@@ -83,4 +83,24 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 
-## <a name="more">🚀 More</a>
+## <a name="application-preview">📷 Application Preview</a>
+
+Here are the screenshots demonstrating how the platform works in action — from uploading and managing files to organizing folders and sharing content. These images provide an overview of the core functionality and interface design.
+
+
+## Sign Up Page
+
+![App Screenshot](https://github.com/Nzaya/Storage_management/blob/main/public/assets/images/sign_up.png?raw=true)
+
+## Dashboard Page
+
+![App Screenshot](https://github.com/Nzaya/Storage_management/blob/main/public/assets/images/dashboard.png?raw=true)
+
+
+## Side Menu
+
+![App Screenshot](https://github.com/Nzaya/Storage_management/blob/main/public/assets/images/Sidemenu.png?raw=true)
+
+## Side Menu
+
+![App Screenshot](https://github.com/Nzaya/Storage_management/blob/main/public/assets/images/actions_dropdown.png?raw=true)
