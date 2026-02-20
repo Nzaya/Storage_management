@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import ActionDropdown from "@/components/ActionDropdown";
 import { Chart } from "@/components/Chart";
 import FormattedDateTime from "@/components/FormattedDateTime";
